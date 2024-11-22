@@ -3,7 +3,7 @@
 <img src="banner_catpuccin_2.png" />
 
 ## `\zip_archives\backup\` is stored on MEGA:
-- [22 November 2024]()
+- [22 November 2024](https://mega.nz/folder/BZxRyDqa#TN3AdsD9OgNpyqisaGhVBw)
 
 ^ will upload all to repo when 'data quota' for repo resets...
 
